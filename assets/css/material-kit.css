@@ -22562,8 +22562,7 @@ svg.text-dark .color-background {
   transition: 0.2s ease-out;
   overflow: hidden;
   -webkit-transform-origin: 50% 0;
-  transform-origin: 50% 0;
-  transform-origin: 50% 0;
+
   -webkit-transform: perspective(999px) rotateX(0deg) translate3d(0, 0, 0);
   transform: perspective(999px) rotateX(0deg) translate3d(0, 0, 0);
   -webkit-backface-visibility: hidden;
